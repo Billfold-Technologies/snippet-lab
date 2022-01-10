@@ -1,7 +1,7 @@
 # snippet-lab
 
 
-bft-snippet.lab is the repository for Billfold Technology snippet based business particles and nucleus files.
+bft-snippet.lab is the repository for Billfold Technology snippet and stylesheet UI based business particles and nucleus files.
 
 | Command | Description |
 | --- | --- |
