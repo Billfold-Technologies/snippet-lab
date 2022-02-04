@@ -10,6 +10,8 @@ bft-snippet.lab is the repository for Billfold Technology snippet and stylesheet
 |  Access token: | OAuth |
 |  Nucleus class: | snippet.lab |
 |  Deployment name: | `npm install` snippetlab |
+|  [Order](https://github.com/Billfold-Technologies/Technical-Orders) | nucleus type particle |
+|  Node Home: | 'sbm-snippetlab/filename' |
 
 The nucleus class establishes and sets the CLI. The Personal Business Machines (PBM) motherboard hosts seven class series daughterboards and their business particles. The classes naming convention follows the build filename. A directory of classes may be found here:
 | Nucleus Class | Description
