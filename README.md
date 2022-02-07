@@ -9,7 +9,7 @@ bft-snippet.lab is the repository for Billfold Technology snippet and stylesheet
 |  Repository: | [snippet-lab](https://github.com/Billfold-Technologies/snippet-lab/) |
 |  Access token: | OAuth |
 |  Nucleus class: | snippet.lab |
-|  Deployment name: | `npm install` snippetlab |
+|  Deployment name: | `npm install` snippet-lab |
 |  [Order](https://github.com/Billfold-Technologies/Technical-Orders) | nucleus type particle |
 |  Node Home: | 'sbm-snippetlab/filename' |
 
